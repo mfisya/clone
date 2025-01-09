@@ -21,7 +21,7 @@ python manage.py createsuperuser
 ```
 python manage.py runserver
 ```
-5. Buka browser di 
+5. Buka browser di chrome
 ```
 http://localhost:8000/todo
 ```
